@@ -1,2 +1,2 @@
-# magic_recipies
+# magic_recipes
 Generate recipes from Youtube videos
